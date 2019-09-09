@@ -2,11 +2,6 @@
 # coding: utf-8
 
 # In[11]:
-
-
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 from urllib.request import urlopen
 import csv
 import datetime
